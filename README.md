@@ -1,4 +1,6 @@
 # Projelerim
-Python-C#-Java 
-Görüntü işleme
-Makine Öğrenmesi
+Python
+C#
+Java
+Image Processing
+Machine Learning 
